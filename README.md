@@ -1,6 +1,7 @@
 # pydeb-bench
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sciom/pydeb-bench/main?labpath=notebooks/binder_demo.ipynb)
+[![DOI](https://zenodo.org/badge/1219074061.svg)](https://doi.org/10.5281/zenodo.19709804)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
