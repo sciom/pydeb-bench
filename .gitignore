@@ -1,0 +1,71 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ---- Build / install artefacts ----
+build/
+dist/
+wheels/
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+.eggs/
+
+# ---- Virtual environments ----
+venv/
+env/
+.venv/
+ENV/
+
+# ---- Testing / coverage ----
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+.cache
+
+# ---- Type checkers / linters ----
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ---- LaTeX stragglers (pydeb-bench itself ships no LaTeX, but
+#      stray build artefacts sometimes appear in the working directory) ----
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+texput.log
+
+# ---- Project-generated artefacts ----
+# Benchmark outputs are reproducible from the CLI; don't commit them.
+benchmark_output/
+# Ad-hoc figures from user experiments.
+figures/
+# Local environment overrides.
+.env
+.env.local

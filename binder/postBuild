@@ -1,0 +1,4 @@
+#!/bin/bash
+# Binder post-build: install the package in editable mode with notebook extras.
+set -e
+pip install --no-cache-dir -e ".[notebook]"
