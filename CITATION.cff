@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite both the software and the accompanying review article."
+message: "If you use this software, please cite it using the metadata below."
 title: "pydeb-bench: Python tools for Dynamic Energy Budget modelling — forward model, turnkey Bayesian calibration, and a reproducible benchmark harness"
 abstract: >-
   Python companion software for the review article by Hackenberger & Djerdj (2026)
@@ -13,9 +13,9 @@ type: software
 version: "0.1.0"
 date-released: "2026-04-23"
 license: MIT
-doi: "10.5281/zenodo.19709804"
+doi: "10.5281/zenodo.19709805"
 repository-code: "https://github.com/sciom/pydeb-bench"
-url: "https://doi.org/10.5281/zenodo.19709804"
+url: "https://doi.org/10.5281/zenodo.19709805"
 keywords:
   - Dynamic Energy Budget
   - DEB theory
@@ -36,15 +36,3 @@ authors:
     family-names: "Djerdj"
     email: "tamara@sciom.hr"
     affiliation: "Josip Juraj Strossmayer University of Osijek, Department of Biology, Osijek, Croatia"
-
-preferred-citation:
-  type: article
-  title: "Mechanistic, Bayesian, and Machine Learning Approaches to Metabolic Modelling: A Critical Review of Dynamic Energy Budget Theory and Its Alternatives"
-  authors:
-    - given-names: "Branimir K."
-      family-names: "Hackenberger"
-    - given-names: "Tamara"
-      family-names: "Djerdj"
-  journal: "Ecological Modelling"
-  year: 2026
-  notes: "In press. DOI will be added upon publication."

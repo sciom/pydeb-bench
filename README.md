@@ -9,7 +9,7 @@ Python companion software for:
 
 > Hackenberger, B.K. & Djerdj, T. (2026). *Mechanistic, Bayesian, and Machine
 > Learning Approaches to Metabolic Modelling: A Critical Review of Dynamic
-> Energy Budget Theory and Its Alternatives.* Ecological Modelling.
+> Energy Budget Theory and Its Alternatives.* Ecological Modelling (submitted).
 
 > Click the **launch binder** badge above to run the interactive demo in your
 > browser with no installation — it reproduces the paper's three-paradigm
@@ -169,7 +169,8 @@ MIT.
 
 ## Citation
 
-If you use this software, please cite the accompanying review:
-
-> Hackenberger, B.K. & Djerdj, T. (2026). Mechanistic, Bayesian, and Machine
-> Learning Approaches to Metabolic Modelling. *Ecological Modelling* (in press).
+If you use this software, please cite:
+> Hackenberger, B. K., & Djerdj, T. (2026). *pydeb-bench: Python tools for
+> Dynamic Energy Budget modelling — forward model, turnkey Bayesian
+> calibration, and a reproducible benchmark harness* (v0.1.0). Zenodo.
+> https://doi.org/10.5281/zenodo.19709805
